@@ -2,9 +2,9 @@
 
 templates = [
   {
-    exam: 'OSCP',
-    name: 'whoisflynn improved template v3.2',
-    path: 'src/OSCP-exam-report-template_whoisflynn_v3.2.md'
+    exam: 'IR-Report',
+    name: 'IR Report',
+    path: 'src/IR-Report.md'
   },
   {
     exam: 'OSCP',
@@ -61,7 +61,7 @@ puts style
 
 # Generating report
 puts 'Generating report...'
-pdf = "output/#{exam}-#{osid}-Exam-Report.pdf"
+pdf = "output/#{exam}-#{osid}-Report.pdf"
 %x(pandoc #{src} -o #{pdf} \
   --from markdown+yaml_metadata_block+raw_html \
   --template eisvogel \
