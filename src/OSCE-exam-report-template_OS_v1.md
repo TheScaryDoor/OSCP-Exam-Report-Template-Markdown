@@ -1,10 +1,10 @@
 ---
-title: "Offensive Security Certified Expert Exam Report"
-author: ["student@youremailaddress.com", "OSID: XXXX"]
-date: "2020-07-25"
-subject: "Markdown"
+title: "Report"
+author: ["reporter@youremailaddress.com", "Company Name"]
+date: "2021-01-25"
+subject: "IR Report"
 keywords: [Markdown, Example]
-subtitle: "OSCE Exam Report"
+subtitle: "Customer Name"
 lang: "en"
 titlepage: true
 titlepage-color: "483D8B"
@@ -15,20 +15,19 @@ book: true
 classoption: oneside
 code-block-font-size: \scriptsize
 ---
-# Intro
+# Executive Summary
 
-The Offensive Security OSCE exam documentation contains all efforts that were conducted in order to pass the Offensive Security Certified Expert exam. This report will be graded from a standpoint of correctness and fullness to all aspects of the exam. The purpose of this report is to ensure that the student has the technical knowledge required to pass the qualifications for the Offensive Security Certified Expert certification.
-The student will be required to fill out this exam documentation fully and to include the following sections:
+Summary of events, listing high-level key items.
 
 - Methodology walkthrough and detailed outline of steps taken
 - Each finding with included screenshots, walkthrough, sample code, and proof.txt if applicable.
 - Any additional items that were not included
 
-# 192.168.XX.200
+# TTPs
 
-## Proof.txt
+## Evidence
 
-Provide the contents of proof.txt.
+List evidence found.
 
 ## Vulnerable Command
 
