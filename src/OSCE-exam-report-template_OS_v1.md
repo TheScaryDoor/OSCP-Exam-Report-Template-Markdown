@@ -15,7 +15,7 @@ book: true
 classoption: oneside
 code-block-font-size: \scriptsize
 ---
-# Executive Summary
+# Summary
 
 Summary of events, listing high-level key items.
 
@@ -29,9 +29,11 @@ Summary of events, listing high-level key items.
 
 List evidence found.
 
-## Vulnerable Command
+# Timeline
 
-Provide the command that was found to be exploitable.
+Provide the timeline.
+
+![ImgPlaceholder](src/placeholder-image-300x225.png)
 
 ## Vulnerability Identification
 
