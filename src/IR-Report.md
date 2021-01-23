@@ -33,7 +33,7 @@ List evidence found.
 
 Provide the timeline.
 
-![ImgPlaceholder](src/placeholder-image-300x225.png)
+![ImgPlaceholder](src/Project-Timeline-Template.jpg)
 
 ## Vulnerability Identification
 
